@@ -2,8 +2,8 @@
 <SpaPackage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SpaPackageIdentity>
     <Id>A806E90B7AE0447584067C437504906B</Id>
-    <Name>samplePackage</Name>
-    <Version>1</Version>
+    <Name>samplePackage Updated</Name>
+    <Version>2</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
