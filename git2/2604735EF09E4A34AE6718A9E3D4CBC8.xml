@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SpaPackage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SpaPackageIdentity>
+    <Id>2604735EF09E4A34AE6718A9E3D4CBC8</Id>
+    <Name>git2</Name>
+    <Version>3</Version>
+  </SpaPackageIdentity>
+  <Description />
+  <CategoryIdentity>
+    <Id>87D85210026E469C8D71F1C7FAD975EF</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>2nd GIT DATA</Name>
+  </CategoryIdentity>
+  <LastModifiedDateTime>2021-06-21T17:42:59.977</LastModifiedDateTime>
+  <LastModifiedResource>
+    <Id>05A8650BB385276799E81790E1A46D54</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>chandra111</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedResource>
+  <Data>
+    <Processes>
+      <ProcessIdentity>
+        <Id>1F2D00C87A332277598E021BDE4E9ECA</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGitProcess</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>3BF8A8369F0E712D87638F78A0BBADDE</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>111</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>971F2A65A58BD73E57705FC11637B328</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGITwebServProcess</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>A4344B879FEEA4615C9366ABD7698E49</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGitCF</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>C7576A76A7B76F9CD2527D7B200DD878</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>2ndGitCD</Name>
+      </ProcessIdentity>
+      <ProcessIdentity>
+        <Id>E2CC67FD4B26CC15D806FF1046F8E4AA</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndskinProcess</Name>
+      </ProcessIdentity>
+    </Processes>
+    <ProcessExportOption>
+      <ExportResources>false</ExportResources>
+      <ExportGroupResourceMembers>false</ExportGroupResourceMembers>
+      <ExportResourcesExtensions>false</ExportResourcesExtensions>
+      <ExportCategories>false</ExportCategories>
+      <WithCategoryParentage>false</WithCategoryParentage>
+      <GeneralizedExport>false</GeneralizedExport>
+      <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
+      <ExportCaseFragments>false</ExportCaseFragments>
+      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
+      <ExportGlobalDataModels>false</ExportGlobalDataModels>
+      <ExportProcessDataModels>false</ExportProcessDataModels>
+      <ExportType>CombineAssociatedMaps</ExportType>
+      <Version>0</Version>
+      <ExportServerVariables>true</ExportServerVariables>
+      <XmlExpressionVariables />
+      <PreloadScript>1</PreloadScript>
+      <SleepDuration>0</SleepDuration>
+      <CategoryIds />
+      <ProcessDocument>false</ProcessDocument>
+      <ProcessViewer>false</ProcessViewer>
+      <DotNetActivityType>0</DotNetActivityType>
+      <Projects />
+      <AllProcessVariables />
+      <ExportOnlyDocumentGroupIdentityDetails>false</ExportOnlyDocumentGroupIdentityDetails>
+      <SiteDetailsRequired>false</SiteDetailsRequired>
+      <CmisSiteDetailsRequired>false</CmisSiteDetailsRequired>
+      <DocumentTemplates />
+      <Assets />
+      <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
+      <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
+      <IsSpaExport>false</IsSpaExport>
+      <ProcessType>BusinessProcess</ProcessType>
+      <ProtectedItems />
+      <ExportPageRenditions>false</ExportPageRenditions>
+      <ExportReportingTags>false</ExportReportingTags>
+      <ExportTestPlans>false</ExportTestPlans>
+      <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
+    </ProcessExportOption>
+    <WorkAllocationRules />
+    <Skins />
+    <BusinessRules>
+      <BusinessRuleIdentity>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Id>EA32C5E10A854268875C18AAD252A799</Id>
+        <Name>2ndGITBusRule</Name>
+        <Version>1</Version>
+        <ProcessId />
+      </BusinessRuleIdentity>
+      <BusinessRuleIdentity>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Id>BC88122D13034C1D9340DAE3FD15FD65</Id>
+        <Name>2ndGITDecTree</Name>
+        <Version>1</Version>
+        <ProcessId />
+      </BusinessRuleIdentity>
+      <BusinessRuleIdentity>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Id>24970D7C8D1B41CE9B2C8EC48486321E</Id>
+        <Name>2ndGITDecTable</Name>
+        <Version>1</Version>
+        <ProcessId />
+      </BusinessRuleIdentity>
+    </BusinessRules>
+    <Assets>
+      <AssetIdentity>
+        <Id>529271BB28D441B28341C357C748E70E</Id>
+        <Name>2ndGIThtml.html</Name>
+        <AssetType>CustomPage</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>60944FA4663D4978BBA7E26BC49F0035</Id>
+        <Name>2ndGITImage.tif</Name>
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>635C24234C294BE986557B48760D90F5</Id>
+        <Name>2GITPPT.pptx</Name>
+        <AssetType>MiscellaneousFile</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>803CB37E70D34EFF94437F54575D1044</Id>
+        <Name>2ndGITDOCTEMPLATE.dotx</Name>
+        <AssetType>Template</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+      <AssetIdentity>
+        <Id>D5A8B3B8610D485790DB24F58B1F80F0</Id>
+        <Name>2ndGITIrnBlue.css</Name>
+        <AssetType>StyleSheet</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </AssetIdentity>
+    </Assets>
+    <Forms>
+      <FormIdentity>
+        <Id>6BC7BFD84876458582CD7CF032A5D446</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITForm</Name>
+        <Version>3</Version>
+      </FormIdentity>
+    </Forms>
+    <FormTemplates>
+      <FormTemplateIdentity>
+        <Id>349F7713EC054C7DAB5AA5370C52D22B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITFormTemplate</Name>
+        <Version>1</Version>
+      </FormTemplateIdentity>
+    </FormTemplates>
+    <FormExportOptions>
+      <ExportHeader>false</ExportHeader>
+      <ExportNavigation>false</ExportNavigation>
+      <ExportGlobalVariables>true</ExportGlobalVariables>
+      <ExportWebServices>false</ExportWebServices>
+      <ExportBusinessRules>false</ExportBusinessRules>
+      <ExportSecurityTokens>false</ExportSecurityTokens>
+      <ExportSecurityRoles>false</ExportSecurityRoles>
+      <ExportRoleMembers>false</ExportRoleMembers>
+      <ProcessExportOptions>
+        <ExportResources>false</ExportResources>
+        <ExportGroupResourceMembers>false</ExportGroupResourceMembers>
+        <ExportResourcesExtensions>false</ExportResourcesExtensions>
+        <ExportCategories>false</ExportCategories>
+        <WithCategoryParentage>false</WithCategoryParentage>
+        <GeneralizedExport>false</GeneralizedExport>
+        <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
+        <ExportCaseFragments>false</ExportCaseFragments>
+        <ExportTemplateSkins>false</ExportTemplateSkins>
+        <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
+        <ExportGlobalDataModels>false</ExportGlobalDataModels>
+        <ExportProcessDataModels>false</ExportProcessDataModels>
+        <ExportType>CombineAssociatedMaps</ExportType>
+        <Version>0</Version>
+        <ExportServerVariables>true</ExportServerVariables>
+        <XmlExpressionVariables />
+        <PreloadScript>1</PreloadScript>
+        <SleepDuration>0</SleepDuration>
+        <CategoryIds />
+        <ProcessDocument>false</ProcessDocument>
+        <ProcessViewer>false</ProcessViewer>
+        <DotNetActivityType>0</DotNetActivityType>
+        <Projects />
+        <AllProcessVariables />
+        <ExportOnlyDocumentGroupIdentityDetails>false</ExportOnlyDocumentGroupIdentityDetails>
+        <SiteDetailsRequired>false</SiteDetailsRequired>
+        <CmisSiteDetailsRequired>false</CmisSiteDetailsRequired>
+        <DocumentTemplates />
+        <Assets />
+        <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
+        <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
+        <IsSpaExport>false</IsSpaExport>
+        <ProcessType>BusinessProcess</ProcessType>
+        <ProtectedItems />
+        <ExportPageRenditions>false</ExportPageRenditions>
+        <ExportReportingTags>false</ExportReportingTags>
+        <ExportTestPlans>false</ExportTestPlans>
+        <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
+      </ProcessExportOptions>
+      <IsSpaExport>false</IsSpaExport>
+      <ProtectedItems />
+    </FormExportOptions>
+    <Navigations>
+      <NavigationMenuIdentity>
+        <Id>B4F40D6067D4470D062EC3408DBFDA58</Id>
+        <Name>2ndGITNav</Name>
+        <LastModifiedDate>2021-04-08T13:41:23.733</LastModifiedDate>
+      </NavigationMenuIdentity>
+    </Navigations>
+    <Sites>
+      <SiteIdentity>
+        <Id>23BB0875C6BA42908950DDB11ED8C803</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITsite</Name>
+      </SiteIdentity>
+    </Sites>
+    <Themes>
+      <ThemeIdentity>
+        <Id>3B9653C532F405FF1766AC67314BA89E</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITTheme</Name>
+      </ThemeIdentity>
+    </Themes>
+    <Languages />
+    <Lookups>
+      <LookupIdentity>
+        <Id>09CF5D294AEE4683BA0D353DBB97386A</Id>
+        <Name>2ndGITLookup</Name>
+      </LookupIdentity>
+    </Lookups>
+    <Resources>
+      <ResourceIdentity>
+        <Id>FC626CCB2A9145C7B1F5DC51A5FCBAFF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITResource</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <ResourceIdentity>
+        <Id>4DA3751F650041FBBE956A5144AE6CAF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITGroup</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+    </Resources>
+    <Entities />
+    <WorkTypes>
+      <WorkQueueDefinitionIdentity>
+        <Id>D3770DDD7A844377A9F06F0EB37C225B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>SecondGITWorkType</Name>
+        <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+      </WorkQueueDefinitionIdentity>
+    </WorkTypes>
+    <Checklists>
+      <ChecklistTemplateIdentity>
+        <Id>7D568D1B4CD8465B84B1E80C4AAEA0E3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>SecondGITChecklistTemp</Name>
+      </ChecklistTemplateIdentity>
+    </Checklists>
+    <DataModels>
+      <DataModelIdentity>
+        <Id>85D0B4BD1E745890A04AC78B4F028B20</Id>
+        <Version>1</Version>
+        <Name>2ndGITDataModel</Name>
+      </DataModelIdentity>
+    </DataModels>
+    <Folders>
+      <FolderTypeIdentity>
+        <Id>1A695F7F4874B826FA85FC425C00DCE0</Id>
+        <AutomaticallyPopulate>false</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGITFolder</Name>
+      </FolderTypeIdentity>
+    </Folders>
+    <ExtractionGroups>
+      <DocumentGroupIdentity>
+        <Id>2B96B13402150D42D3BAA0EFEF57D93A</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGITExtGroup</Name>
+      </DocumentGroupIdentity>
+    </ExtractionGroups>
+    <ClassificationGroups>
+      <ClassificationGroupIdentity>
+        <Id>429F07B3795A60CAE2A971E4290C7DCE</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>2ndGITClassGroup</Name>
+      </ClassificationGroupIdentity>
+    </ClassificationGroups>
+    <Formatters>
+      <FormatterIdentity>
+        <Id>DB755F4F7424F40D7C8C2C75E18B3D64</Id>
+        <Name>2ndGITFieldFormatter</Name>
+      </FormatterIdentity>
+    </Formatters>
+    <FieldValidators>
+      <ValidatorIdentity>
+        <Id>656F7FD8D7E20C0ECB2653C9AEBF5FBB</Id>
+        <Name>2ndGITFieldVal</Name>
+      </ValidatorIdentity>
+    </FieldValidators>
+    <ChecklistItems>
+      <ChecklistItemIdentity>
+        <Id>AF825494548F4CD199565B92D22514B7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>SecondGITChecklist</Name>
+      </ChecklistItemIdentity>
+    </ChecklistItems>
+    <Events>
+      <EventDefinitionIdentity>
+        <Id>C48CEC11700F44E5832A733EF42E6AC0</Id>
+        <Name>2ndGITBusEvent</Name>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </EventDefinitionIdentity>
+    </Events>
+    <Targets>
+      <TargetDefinitionIdentity>
+        <Id>C0C3FAF258EE45B0AB16AC9EB2E45203</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITBusTarget</Name>
+      </TargetDefinitionIdentity>
+    </Targets>
+    <Alerts>
+      <AlertDefinitionIdentity>
+        <Id>49B3F0EEE8F24E60A292C6A9E883466C</Id>
+        <Name>2ndGITBusAlert</Name>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </AlertDefinitionIdentity>
+    </Alerts>
+    <AlertExportOption>
+      <ExportAssociatedProcess>false</ExportAssociatedProcess>
+    </AlertExportOption>
+    <Categories>
+      <CategoryIdentity>
+        <Id>4C084FEEA385473D9DBED178F13408A6</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2ndGITCustServGroup</Name>
+      </CategoryIdentity>
+      <CategoryIdentity>
+        <Id>87D85210026E469C8D71F1C7FAD975EF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>2nd GIT DATA</Name>
+      </CategoryIdentity>
+    </Categories>
+    <ScanVrsProfiles />
+    <PdfGenerationProfiles>
+      <PdfGenerationProfileIdentity>
+        <Id>D674AB17DFB59B180058EE7C1B48BB37</Id>
+        <Name>2ndGITPDFProfile</Name>
+      </PdfGenerationProfileIdentity>
+    </PdfGenerationProfiles>
+    <DocumentConversionProfiles />
+    <JobSchedules />
+    <RegularExpressions />
+    <Personas>
+      <PersonaIdentity>
+        <Id>D47799077A92482AB122921783E88696</Id>
+        <Name>2ndGITPersonas</Name>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      </PersonaIdentity>
+    </Personas>
+    <SeparationProfiles>
+      <SeparationProfileIdentity>
+        <Id>6C44A0C827F9D6AFB32FB40B6F781353</Id>
+        <Name>2ndGITSeparPro</Name>
+      </SeparationProfileIdentity>
+    </SeparationProfiles>
+    <Queries>
+      <QueryInfo>
+        <Identity>
+          <Id>A21DBBB33A476A3C1138CCB83C849EF4</Id>
+          <Name>2ndGITWQQuery</Name>
+          <QueryType>All</QueryType>
+        </Identity>
+        <QueryType>WorkQueue</QueryType>
+      </QueryInfo>
+      <QueryInfo>
+        <Identity>
+          <Id>D5DA72E993B5C7A2BA9508C3CFDDE8BC</Id>
+          <Name>2ndGITJobQuery</Name>
+          <QueryType>All</QueryType>
+        </Identity>
+        <QueryType>JobList</QueryType>
+      </QueryInfo>
+      <QueryInfo>
+        <Identity>
+          <Id>ECF901A2BAB1AC3E2E314A040352CC96</Id>
+          <Name>2ndGITSysQuery</Name>
+          <QueryType>All</QueryType>
+        </Identity>
+        <QueryType>System</QueryType>
+      </QueryInfo>
+    </Queries>
+    <ShowProcessAssociations>true</ShowProcessAssociations>
+    <ShowFormAssociations>true</ShowFormAssociations>
+    <SystemExportOptions>
+      <IncludeNoteTypes>false</IncludeNoteTypes>
+      <IncludeHotKeys>false</IncludeHotKeys>
+      <IncludePageRenditions>false</IncludePageRenditions>
+      <IncludeNodeColors>false</IncludeNodeColors>
+      <IncludeReportingTags>false</IncludeReportingTags>
+    </SystemExportOptions>
+    <ShowCategoryAssociations>true</ShowCategoryAssociations>
+    <Packages>
+      <SpaPackageIdentity>
+        <Id>9C9AEF68BF7C46C6986F9B61323DA98A</Id>
+        <Name>2ndGITPackageDef</Name>
+        <Version>1</Version>
+      </SpaPackageIdentity>
+    </Packages>
+    <ProtectedItemsData>
+      <ProtectAllItems>false</ProtectAllItems>
+      <ProtectedItems />
+    </ProtectedItemsData>
+    <DocumentTypeVariantCollection />
+    <MissingAssociations />
+    <IncludeRoleMembers>false</IncludeRoleMembers>
+    <IncludeDevices>false</IncludeDevices>
+    <IncludeDeviceProfiles>false</IncludeDeviceProfiles>
+    <IncludeDeviceSettings>false</IncludeDeviceSettings>
+    <Deployments />
+    <ErrorList />
+    <CaptureControlLayouts />
+    <CustomServiceIdentities>
+      <CustomServiceIdentity>
+        <Id>67723D4C04F7ED749E885465B1642BCC</Id>
+        <Name>2ndGITCustomService</Name>
+        <Version>1</Version>
+        <Group>
+          <Id>819E8753788F41E481169EADD4882452</Id>
+          <Name>2ndGITCustServGroup</Name>
+        </Group>
+      </CustomServiceIdentity>
+    </CustomServiceIdentities>
+    <CustomServiceGroupIdentities>
+      <CustomServiceGroupIdentity>
+        <Id>819E8753788F41E481169EADD4882452</Id>
+        <Name>2ndGITCustServGroup</Name>
+      </CustomServiceGroupIdentity>
+    </CustomServiceGroupIdentities>
+    <CaptureSolutionIdentity>
+      <Id />
+      <Name />
+      <Version>0</Version>
+    </CaptureSolutionIdentity>
+    <ImportConnections />
+    <ImportSources />
+    <OAuthServers />
+    <QuickApp>
+      <Id />
+      <Name />
+      <Version>0</Version>
+    </QuickApp>
+  </Data>
+  <Comments />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <PermissionType>NoAccess</PermissionType>
+  <LockedBy>
+    <Id>05A8650BB385276799E81790E1A46D54</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+</SpaPackage>

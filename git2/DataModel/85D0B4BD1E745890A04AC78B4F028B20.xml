@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DataModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>85D0B4BD1E745890A04AC78B4F028B20</Id>
+    <Version>1</Version>
+    <Name>2ndGITDataModel</Name>
+  </Identity>
+  <Category>
+    <Id>87D85210026E469C8D71F1C7FAD975EF</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Fields>
+      <DataModelField>
+        <Identity>
+          <Id>FE4AE794845366418C69E892A359C792</Id>
+          <Name>FIELD1</Name>
+          <DisplayName>Field1</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+      <DataModelField>
+        <Identity>
+          <Id>E2AB1892DE26771DB259891D61A24FC2</Id>
+          <Name>FIELD2</Name>
+          <DisplayName>Field2</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+    </Fields>
+    <Scope>Public</Scope>
+  </Data>
+  <Status>Released</Status>
+  <Description />
+  <OwnerId>20BEF633CD9BA64DB0F9B0936A0061FE</OwnerId>
+  <LastModifiedDate>2021-04-08T09:59:36.317</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>5C765A5C781046E79303D6421B349B2C</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</DataModel>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>24970D7C8D1B41CE9B2C8EC48486321E</Id>
+    <Name>2ndGITDecTable</Name>
+    <Version>1</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>1</Version>
+  <ProcessIdentity>
+    <Id>C6F7D965F2E786D6D1964E4A2E837296</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>2ndGITDecTable</Name>
+  </ProcessIdentity>
+  <RuleType>DecisionTable</RuleType>
+  <CategoryIdentity>
+    <Id>87D85210026E469C8D71F1C7FAD975EF</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </CategoryIdentity>
+  <LastModifiedUserName />
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>5C765A5C781046E79303D6421B349B2C</LastModifiedUser>
+  <LastModifiedDate>2021-04-08T08:49:22.31</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>STRINGIN</name>
+      <type>8</type>
+      <description>StringIn</description>
+    </inputs>
+    <outputs>
+      <name>STRINGOUT</name>
+      <type>8</type>
+      <description>StringOut</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables>
+        <VariableIdentity>
+          <Id>STRINGIN</Id>
+          <Version>0</Version>
+          <DisplayName>StringIn</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>STRINGOUT</Id>
+          <Version>0</Version>
+          <DisplayName>StringOut</DisplayName>
+        </VariableIdentity>
+      </ShowOnTableVariables>
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>STRINGIN</name>
+      <type>8</type>
+      <description>StringIn</description>
+    </inputs>
+    <outputs>
+      <name>STRINGOUT</name>
+      <type>8</type>
+      <description>StringOut</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables>
+        <VariableIdentity>
+          <Id>STRINGIN</Id>
+          <Version>0</Version>
+          <DisplayName>StringIn</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>STRINGOUT</Id>
+          <Version>0</Version>
+          <DisplayName>StringOut</DisplayName>
+        </VariableIdentity>
+      </ShowOnTableVariables>
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</BusinessRule>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>429F07B3795A60CAE2A971E4290C7DCE</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>2ndGITClassGroup</Name>
+  </Identity>
+  <Name>2ndGITClassGroup</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>87D85210026E469C8D71F1C7FAD975EF</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>2nd GIT DATA</Name>
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>2B96B13402150D42D3BAA0EFEF57D93A</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>1</Version>
+      <Name>2ndGITExtGroup</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2021-04-08T08:58:30.273</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>5C765A5C781046E79303D6421B349B2C</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+</ClassificationGroup>
