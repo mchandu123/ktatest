@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>A186D4FE661A769954B1B3BB811B295F</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>3</Version>
+    <Name>CG</Name>
+  </Identity>
+  <Name>CG</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>C30B9B1C4E7B0BD7E0FBD63CC31EED60</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>3</Version>
+      <Name>Group 1</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2021-06-22T13:32:13.217</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>05A8650BB385276799E81790E1A46D54</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>05A8650BB385276799E81790E1A46D54</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>chandra111</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+</ClassificationGroup>
