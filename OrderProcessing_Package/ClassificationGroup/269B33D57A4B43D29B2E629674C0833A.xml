@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ClassificationGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>269B33D57A4B43D29B2E629674C0833A</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>7</Version>
+    <Name>CG_OrderProcessing</Name>
+  </Identity>
+  <Name>CG_OrderProcessing</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <DocumentGroups>
+    <DocumentGroupIdentity>
+      <Id>A45FBA2B1F61471090A8B54CF31C2412</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Version>8</Version>
+      <Name>EG_OrderProcessing</Name>
+    </DocumentGroupIdentity>
+  </DocumentGroups>
+  <LastModifiedDate>2021-06-28T08:11:33.067</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>F41985B3339B4E0F92EF6363ED4FB1F9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
+  <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>NoAccess</ResourcePermissionType>
+</ClassificationGroup>
