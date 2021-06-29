@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>C6E3A2B86A6F4A618AEC25419E751900</Id>
     <Name>DM</Name>
-    <Version>2</Version>
+    <Version>3</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-06-29T19:05:42.32</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-06-29T19:06:49.583</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>05A8650BB385276799E81790E1A46D54</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -133,7 +133,7 @@
     <DataModels>
       <DataModelIdentity>
         <Id>32FFA24CED0E93E645D52FC0EFF5A35D</Id>
-        <Version>6</Version>
+        <Version>11</Version>
         <Name>dm</Name>
       </DataModelIdentity>
     </DataModels>
