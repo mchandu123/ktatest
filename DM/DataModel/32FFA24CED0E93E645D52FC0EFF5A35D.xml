@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DataModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>32FFA24CED0E93E645D52FC0EFF5A35D</Id>
+    <Version>6</Version>
+    <Name>dm</Name>
+  </Identity>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Fields>
+      <DataModelField>
+        <Identity>
+          <Id>D19E608AB72A5551C6D9F6E182A5AB82</Id>
+          <Name>FIELD1</Name>
+          <DisplayName>Field1</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+      <DataModelField>
+        <Identity>
+          <Id>3C8ECD05C98A347A1F1DEA7203004723</Id>
+          <Name>FIELD2</Name>
+          <DisplayName>Field2</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+      <DataModelField>
+        <Identity>
+          <Id>309E0C84BD88EDC1F2FD2926ECBF5C64</Id>
+          <Name>FIELD3</Name>
+          <DisplayName>Field3</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+    </Fields>
+    <Scope>Public</Scope>
+  </Data>
+  <Status>Released</Status>
+  <Description />
+  <OwnerId>20BEF633CD9BA64DB0F9B0936A0061FE</OwnerId>
+  <LastModifiedDate>2021-06-29T19:01:38.55</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>05A8650BB385276799E81790E1A46D54</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</DataModel>
